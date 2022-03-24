@@ -7,6 +7,9 @@ public class Createcontactnametest {
 	public void contactname()
 	{
 		System.out.println("contactname created successfully");
+		
+		
+		System.out.println("kishor is gental man");
 	}
 
 }
