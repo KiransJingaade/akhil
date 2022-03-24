@@ -9,7 +9,7 @@ public class Createcontactnametest {
 		System.out.println("contactname created successfully");
 		
 		
-		System.out.println("kishor is gental man");
+		System.out.println("user 1:- created contact updated");
 	}
 
 }
